@@ -6,4 +6,4 @@
 
 **Thoughts:** Feeling good about starting. Hope to improve on coding practices.
 
-**Link to work:** [Band Name Generator](https://repl.it/@varunr8908/band-name-generator-start)
+**Link to work:** [Band Name Generator](https://github.com/varunr8908/band-name-generator-start.git)
