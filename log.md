@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: November 30, 2020 (Example 1)
+### Day 1: November 30, 2020
 
 **Today's Progress**: Completed first course of python bootcamp.
 
