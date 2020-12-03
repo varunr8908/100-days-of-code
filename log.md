@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: December 2, 2020
+
+**Today's Progress**: Completed third course of python bootcamp.
+
+**Thoughts:** Another Long day, almost didn't continue, but pushed through continued. Feels good :).
+
+**Link to work:** [Treasure Island](https://github.com/varunr8908/treasure-island-start)
+
+
+
 ### Day 2: December 1, 2020
 
 **Today's Progress**: Completed second course of python bootcamp.
