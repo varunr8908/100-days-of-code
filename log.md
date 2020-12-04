@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: December 3, 2020
+
+**Today's Progress**: Completed fourth course of python bootcamp.
+
+**Thoughts:** Good Day to code. Day 4 of bootcamp done.
+
+**Link to work:** [Rock Paper Scissors Game](https://github.com/varunr8908/rock-paper-scissors-start)
+
+
 ### Day 3: December 2, 2020
 
 **Today's Progress**: Completed third course of python bootcamp.
